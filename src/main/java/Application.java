@@ -7,7 +7,7 @@ import com.kenzie.app.zipcode.http.CustomHttpClient;
 import java.io.IOException;
 import java.util.Random;
 import java.util.Scanner;
-
+// update by using github
 public class Application {
     /* Java Fundamentals Capstone project:
           - Define as many variables, properties, and methods as you decide are necessary to
